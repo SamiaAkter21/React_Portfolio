@@ -1,0 +1,30 @@
+.experience-content{
+    display: flex;
+    flex-direction: column;
+}
+
+.vline1{
+    margin-left: 20px;
+    height: 180px;
+    border: 1px solid black;
+    width: 1px;
+}
+
+.job-section{
+    margin-top: 50px;
+    display: flex;
+}
+
+.job-description1{
+    margin-left: 50px;
+}
+
+.vline2{
+    height: 180px;
+    border: 1px solid black;
+    width: 2px;
+}
+
+.job-title2{
+    margin-left: 20px;
+}

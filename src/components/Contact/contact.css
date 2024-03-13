@@ -1,0 +1,82 @@
+
+.font{
+    font-size: 20px;
+}
+
+#contact{
+    text-align: center;
+}
+
+#msg{
+    font-size: 17px;
+    border: 1px solid #C4C4C4;
+    border-radius: 20px;
+    cursor: pointer;
+    background-color: lightcyan;
+    margin: 20px;
+    padding: 10px;
+}
+
+#msg:hover{
+    border: 1px solid #504e4e;
+    color: white;
+    background-color: rgb(84, 128, 128);
+}
+
+#form {
+    position: relative;
+    /* display: none; */
+    margin: 20px;
+    margin-bottom: 50px;
+    border: 1px solid gray;
+    border-radius: 10px;
+    background-color: aliceblue;
+	padding: 20px 40px;	
+}
+
+.form-control {
+	margin-bottom: 10px;
+	padding-bottom: 20px;
+	position: relative;
+}
+
+.form-control label {
+    font-size: 17px;
+	display: inline-block;
+	margin-bottom: 5px;
+}
+
+.form-control input {
+	border: 1px solid #b9b6b6;
+	border-radius: 7px;
+	display: block;
+	font-family: inherit;
+	font-size: 14px;
+	padding: 10px;
+	width: 100%;
+}
+
+.form-control textarea{
+	border: 1px solid #b9b6b6;
+    border-radius: 7px;
+    display: block;
+	font-family: inherit;
+	font-size: 14px;
+	padding: 10px;
+	width: 100%;
+    height: 100px;
+}
+
+.send{
+    border: 1px solid #C4C4C4;
+    font-size: 15px;
+    cursor: pointer;
+    background-color: white;
+    border-radius: 10px;
+    padding: 10px;
+}
+
+.send:hover{
+    color: whitesmoke;
+    background-color: rgb(98, 118, 124);
+}
