@@ -7,7 +7,7 @@ const Contact = () => {
         <div className="">
             <div className="about-header flex">
                 <div className="line"></div>
-                <h1 className="middle">Contact Me</h1>
+                <h1 className="middle">Contact Me </h1>
                 <div className="line"></div>
             </div>
             <div className="about-content">
